@@ -1,0 +1,4 @@
+require 'rubygems'
+require 'hash_to_xml'
+
+puts somehash.to_xml
